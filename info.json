@@ -1,0 +1,8 @@
+{
+    "resource_type": [
+        {
+            "path": "movie",
+            "name": "Movie"
+        }
+    ]
+}
